@@ -1,3 +1,4 @@
+#encoding='utf-8'
 the answer for leetcode
 
-¶àÐ´leetcodeÌâÄ¿£¬ÕâÀï»á¸½ÉÏ´ð°¸
+ï¿½ï¿½Ð´leetcodeï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á¸½ï¿½Ï´ï¿½
